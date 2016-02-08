@@ -1,0 +1,20 @@
+Git Basics
+
+Test repo
+
+1) /git
+2) /git/repos
+3) /get/repos/git-basics
+4) terminal inside git-basics
+5) git init
+6) git status
+7) copy src files here
+8) git add .
+9) git commit
+
+
+
+
+git commands (terminal)
+
+git config --list
